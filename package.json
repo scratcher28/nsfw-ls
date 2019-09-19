@@ -8,10 +8,8 @@
     "url": "git+https://github.com/scratcher28/nsfw-ls.git"
   },
   "dependencies": {
-    "@tensorflow/tfjs-node": "~1.0.1",
-    "libgif": "0.0.2",
-    "jpeg-js": "^0.3.4",
-    "seedrandom": "~3.0.3"
+    "@tensorflow/tfjs-node": "^1.0.1",
+    "jpeg-js": "^0.3.4"
   },
   "keywords": [
     "NSFW",
