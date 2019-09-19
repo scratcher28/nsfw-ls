@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "@tensorflow/tfjs-node": "^1.0.1",
-    "jpeg-js": "^0.3.4"
+    "jpeg-js": "^0.3.4",
+    "libgif": "0.0.2"
   },
   "keywords": [
     "NSFW",
