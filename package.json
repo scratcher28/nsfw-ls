@@ -3,10 +3,6 @@
   "version": "2.1.0",
   "description": "Detect NSFW content client side",
   "main": "dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/scratcher28/nsfw-ls.git"
-  },
   "dependencies": {
     "@tensorflow/tfjs-node": "^1.0.1",
     "jpeg-js": "^0.3.4",
