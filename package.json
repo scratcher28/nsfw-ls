@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "dependencies": {
     "@tensorflow/tfjs-node": "~1.0.1",
-    "jpeg-js": "^0.3.4",
+    "jpeg-js": "^0.4.0",
     "libgif": "0.0.2"
   },
   "keywords": [
